@@ -1,0 +1,56 @@
+.inns{
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+.inns input{
+    padding: 20px 70px;
+    border: 0;
+    outline: 0;color: black;
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 900;
+line-height: 15px;
+
+}
+.inns input:hover{
+    background-color: #ddf1f8;
+    transition: 1ms;
+}
+.sea{
+    padding: 0px 70px;
+    margin-top: 150px;
+}
+.inns i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#EBFAFF ;
+    border-radius: 50%;
+    font-size: 25px;
+}
+#magnify{
+    background-color: #0EA57A;
+    color: white;
+    border-radius: 10px;
+}
+#confi{
+    font-family: Poppins;
+font-size: 23px;
+font-weight: 300;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.inns input::placeholder{
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 900;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}

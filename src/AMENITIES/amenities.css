@@ -1,0 +1,85 @@
+#advan{
+    color: #00E5A1;
+font-size:22px;
+font-weight: 900;
+line-height: 15px;
+letter-spacing: 0.01em;
+    margin-top: 300px;
+    text-align: left;
+
+}
+#Ame{
+font-size: 70px;
+font-weight: 800;
+line-height: 42px;
+letter-spacing: 0.01em;
+color: black;
+
+}
+.advan{
+    display: flex;
+    margin-top: 150px;
+
+}
+.num{
+    color: #00E5A1;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    text-align: left;    
+}
+.head{
+    font-family: Poppins;
+font-size: 19px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-align: left;
+color: black;
+
+}
+.one{
+    width: 250px;
+    border-left: 1px solid #989898;
+    padding: 20px;
+}
+
+.onee{
+    margin-top: 150px;
+    width: 250px;
+    border-left: 1px solid #989898;
+    padding: 20px;
+}
+.onee img{
+    width: 250px;
+}
+.one img{
+    width: 250px;
+}
+.Amenities{
+    background-color: #F3F4F9;
+    padding: 0px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 150px;
+}
+
+.data{
+    color: black;
+font-size: 12px;
+font-weight: 900;
+line-height: 18px;
+letter-spacing: 0.01em;
+text-align: left;
+
+}
+.upp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}

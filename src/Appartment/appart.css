@@ -1,0 +1,128 @@
+#Rec1 {
+    width: 302px;
+    height: 412px;
+    transform: rotate(9deg);
+    position: relative;
+    left: -200px;
+    top: -40px;
+}
+
+
+#Rec2 {
+    width: 302px;
+    height: 412px;
+    transform: rotate(-15deg);
+    border: 1px solid goldenrod;
+}
+
+.left {
+    display: flex;
+}
+
+.right {
+    width: 600px;
+}
+
+.up {
+    display: flex;
+    margin-top: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#z {
+    color: #00e5a1;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1px;
+    letter-spacing: 0.075em;
+}
+
+#x {
+    font-family: "Gabriela", sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.025em;
+}
+
+#c {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0.09em;
+}
+
+.down {
+    width: 100%;
+    display: flex;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+
+#Rec3 {
+    width: 302px;
+    height: 412px;
+    transform: rotate(9deg);
+}
+
+#Rec4 {
+    width: 302px;
+    height: 412px;
+    transform: rotate(-15deg);
+    position: relative;
+    right: -170px;
+    bottom: -40px;
+}
+
+.r {
+    display: flex;
+}
+
+.Numbers {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-top: 1px solid rgb(178, 178, 178);
+    margin-top: 250px;
+    padding-bottom: 200px;
+}
+
+.Numbers h1 {
+    color: #00e5a1;
+    font-family: Gabriela;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 91px;
+    letter-spacing: -0.05em;
+    margin-bottom: 0;
+}
+
+.Numbers p {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: -0.005em;
+    text-align: left;
+}
+
+#h {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hp {
+    font-family: Gabriela;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: -0.05em;
+    margin-left: 4px;
+    color: #00e5a1;
+}
+.Appart{
+    padding: 0px 70px;
+}

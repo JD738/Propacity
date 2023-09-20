@@ -1,0 +1,119 @@
+#call{
+    font-family: Gabriela;
+font-size: 26px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+
+}
+.number{
+    display: flex;
+}
+#plus{
+    font-family: Gabriela;
+font-size: 59px;
+font-weight: 700;
+line-height: 132px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+#remain{
+    color: black;
+    font-family: Gabriela;
+font-size: 50px;
+font-weight: 100;
+line-height: 119px;
+letter-spacing: 0em;
+text-align: left;
+}
+#callicon{
+    background-color:rgb(26, 36, 64) ;
+    height: 40px;
+    width: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.last{
+    background-color: #F3F4F9;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0px 70px;
+}
+#year{
+    color: black;
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+#rights{
+    color: black;
+
+
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+#all{
+    color: black;
+    font-family: Gabriela;
+    font-size: 20px;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call{
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.links{
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
+#twit{
+    background-color:#00E5A1;
+ 
+    color: white;
+}
+.links i{
+    font-size: 25px;
+    color: rgb(56, 55, 55);
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    margin: 5px;
+    
+}
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

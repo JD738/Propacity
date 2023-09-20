@@ -1,0 +1,50 @@
+
+.popleft img{
+    width: 50vw;
+    height: 100vh;
+}
+.pop{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    
+    justify-content: space-evenly;
+}
+.login label,input,h1{
+    color: black;
+
+}
+.login{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#Book{
+    font-family: Poppins;
+font-size: 52px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: -0.5px;
+text-align: left;
+
+}
+.inna{
+    width: 300px;
+    padding: 10px 20px;
+    background-color: #EDEDEE;
+    border: none;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+#booknow{
+    width: 300px;
+    padding: 8px;
+    background-color: #1A2440;
+}
+.show{
+    position: relative;
+    display: none;
+    
+}
